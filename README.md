@@ -1,1 +1,1 @@
-This repository contains only the parts of the code implemented in https://github.com/Luke-537/Dino-Video-Summarization-Transformer that were created for the bachelor thesis, excluding any referenced code.
+This repository contains only the parts of the code implemented in https://github.com/Luke-537/Dino-Video-Summarization-Transformer that were created for the bachelor thesis, excluding any code from referenced sources.
